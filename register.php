@@ -2,7 +2,7 @@
 
 // PARAMETRI DA MODIFICARE
 $WEBHOOK_URL = 'https://kerrysbot.herokuapp.com/execute.php';
-$BOT_TOKEN = '761688361:AAFMrbnvqsFRXK2ra6pT1vVO1VkyGFM2pKs';
+$BOT_TOKEN = '761688361:AAFMrbnvqsFRXK2ra6pT1vV01VkyGFM2pKs';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
 $API_URL = 'https://api.telegram.org/bot' . $BOT_TOKEN .'/';
